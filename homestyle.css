@@ -1,0 +1,31 @@
+.topnav {
+    background-color: #410505;
+    overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(14, 199, 219);
+  }
+  
+  .topnav a.active {
+    background-color: #cfed0b;
+    color: white;
+  }
+  .background-img {  
+    min-height: 700px;  
+    background-size: cover;  
+    background-image: url(  
+"https://c8.alamy.com/comp/2CTDN94/local-tourism-simple-web-banner-background-poster-with-pinpoint-icon-and-bus-vector-minimalist-background-one-continuous-line-drawing-with-2CTDN94.jpg");  
+}
